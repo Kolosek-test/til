@@ -36,6 +36,7 @@ Note: test suite has not been refactored
 
 
 # Not implemented for magma:
+
 `slack_post_endpoint` allows the app to post to [Slack](https://slack.com/):
 
 ```yml
